@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,100:5980A6&height=200&section=header&text=Giuseppe%20Castelluccio&fontSize=42&fontColor=F4F1EA&animation=fadeIn" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,100:5980A6&height=200&section=header&text=Giuseppe%20Castelluccio&fontSize=42&fontColor=F4F1EA" width="100%">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1000&color=5980A6&center=true&vCenter=true&width=500&lines=Sicily%2C+Italy;Self-hosting+my+own+infrastructure;Learning+by+breaking+things+and+fixing+them;Building+small+tools+for+small+businesses">
+Sicily, Italy. Self-hosting my own infrastructure, learning by breaking things and fixing them.
 
 </div>
 
@@ -34,11 +34,6 @@ Building small developer tools too — two of them public, real, and shipped:
 </div>
 
 ## Activity
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=exochard&show_icons=true&theme=dark&hide_border=true&bg_color=0D1B2A&title_color=5980A6&icon_color=5980A6&text_color=F4F1EA" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=exochard&layout=compact&theme=dark&hide_border=true&bg_color=0D1B2A&title_color=5980A6&text_color=F4F1EA" />
-</div>
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=exochard&theme=dark&hide_border=true&background=0D1B2A&ring=5980A6&fire=5980A6&currStreakLabel=F4F1EA" />
