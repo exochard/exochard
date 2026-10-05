@@ -4,7 +4,7 @@
   <img src="assets/header-dark.svg" alt="Giuseppe Castelluccio" width="100%">
 </picture>
 
-I live in Capo d'Orlando, Sicily, and build browser extensions and small developer tools. I run my own servers at home (Docker, Caddy, Postgres, backups) and learn mostly by fixing what breaks.
+I live in Capo d'Orlando, Sicily. I run my own servers at home (Docker, Caddy, Postgres, backups) and learn mostly by fixing what breaks.
 
 ## Browser extensions
 
