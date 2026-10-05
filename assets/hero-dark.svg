@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="290" viewBox="0 0 1200 290" role="img" aria-label="exochard">
+<style>
+text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace;white-space:pre}
+.p{font-size:20px;fill:#8b949e}.b{font-size:20px;fill:#e6edf3}.a{fill:#3fb950}
+.type{transform-box:fill-box;transform-origin:0 0;animation:ty 1.1s steps(11,end) .3s backwards}
+@keyframes ty{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+.row{animation:rw .5s steps(1,end) backwards}
+@keyframes rw{0%{opacity:0}30%{opacity:.9}45%{opacity:.1}60%{opacity:1}80%{opacity:.5}100%{opacity:1}}
+.scan{opacity:0;animation:sc 2.4s linear 1.8s 1 both}
+@keyframes sc{0%{opacity:0;transform:translateY(0)}2%{opacity:.9;transform:translateY(0)}95%{opacity:.9;transform:translateY(142px)}100%{opacity:0;transform:translateY(142px)}}
+.cur{animation:bl 1.1s steps(1,end) infinite}
+@keyframes bl{0%,55%{opacity:1}56%,100%{opacity:0}}
+.late{animation:lt .01s linear 4.4s backwards}
+@keyframes lt{from{opacity:0}to{opacity:1}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}.scan{opacity:0!important}}
+</style>
+<defs><clipPath id="c"><rect class="type" x="36" y="26" width="300" height="30"/></clipPath></defs>
+<rect width="1200" height="290" fill="#0d1117"/>
+<text class="p" x="36" y="48" xml:space="preserve" clip-path="url(#c)"><tspan class="a">$</tspan> ./exochard</text>
+<text class="b row" style="animation-delay:1.80s" x="36" y="100" textLength="1128" lengthAdjust="spacing" xml:space="preserve">                                                ██                                          ██</text>
+<text class="b row" style="animation-delay:2.12s" x="36" y="120" textLength="1128" lengthAdjust="spacing" xml:space="preserve">                                                ██                                          ██</text>
+<text class="b row" style="animation-delay:2.44s" x="36" y="140" textLength="1128" lengthAdjust="spacing" xml:space="preserve">  ██████    ██      ██    ██████      ████████  ██  ████      ██████    ██  ████      ████  ██</text>
+<text class="b row" style="animation-delay:2.76s" x="36" y="160" textLength="1128" lengthAdjust="spacing" xml:space="preserve">██      ██    ██  ██    ██      ██  ██          ████    ██          ██  ████    ██  ██    ████</text>
+<text class="b row" style="animation-delay:3.08s" x="36" y="180" textLength="1128" lengthAdjust="spacing" xml:space="preserve">██████████      ██      ██      ██  ██          ██      ██    ████████  ██          ██      ██</text>
+<text class="b row" style="animation-delay:3.40s" x="36" y="200" textLength="1128" lengthAdjust="spacing" xml:space="preserve">██            ██  ██    ██      ██  ██          ██      ██  ██      ██  ██          ██    ████</text>
+<text class="b row" style="animation-delay:3.72s" x="36" y="220" textLength="1128" lengthAdjust="spacing" xml:space="preserve">  ████████  ██      ██    ██████      ████████  ██      ██    ████████  ██            ████  ██</text>
+<rect class="scan" x="26" y="98" width="1148" height="2" fill="#3fb950"/>
+<text class="p late" x="36" y="268" xml:space="preserve"><tspan class="a">$</tspan> <tspan class="a cur">█</tspan></text>
+</svg>
