@@ -1,50 +1,31 @@
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
+  <img src="assets/header-dark.svg" alt="Giuseppe Castelluccio" width="100%">
+</picture>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D4A27,100:161B22&height=200&section=header&text=Giuseppe%20Castelluccio&fontSize=42&fontColor=F4F1EA" width="100%">
+I live in Capo d'Orlando, Sicily, and build browser extensions and small developer tools. I run my own servers at home (Docker, Caddy, Postgres, backups) and learn mostly by fixing what breaks.
 
-Sicily, Italy. Self-hosting my own infrastructure, learning by breaking things and fixing
-them.
+## Browser extensions
 
-</div>
+| Extension | What it does | Stores |
+|---|---|---|
+| GigScope | Checks your Fiverr gig rank by keyword and shows competitor ratings, reviews and prices on search pages. | [Chrome](https://chromewebstore.google.com/detail/gigscope-for-fiverr/hefjmklbfmgljmdkobekdkneamihibof), [Edge](https://microsoftedge.microsoft.com/addons/detail/mppmlngecfpdbbcofombkhfekpdblmbm) |
+| Listrank | Etsy rank tracker: rank by keyword, shop audit from a CSV, bulk title and tag fixes. | [Chrome](https://chromewebstore.google.com/detail/listrank-etsy-rank-checke/jdndfjhhepnfgemjdjkpcgfnehedbpak), [Edge](https://microsoftedge.microsoft.com/addons/detail/dcijmbnlnmbjmgomgccaoclbkoggpemp), [Firefox](https://addons.mozilla.org/firefox/addon/listrank-etsy-rank-checker-seo/) |
+| Takelight | Screen recorder that records on your computer, with no account. Captions are made on your device. | [Chrome](https://chromewebstore.google.com/detail/kcpcjjkialleiglnjpngkomcdeoabdgl) |
+| Twinread | Translates a web page and shows the translation under each paragraph, on your device. | [Chrome](https://chromewebstore.google.com/detail/twinread-bilingual-page-t/iikpomdgmfkbmojldmijclclacidlofm) |
+| Tabsafe | Saves your open tabs and windows, logs closed tabs, imports OneTab and Session Buddy lists. | [Edge](https://microsoftedge.microsoft.com/addons/detail/pfpfkememjgolkgkmngjhblbcepfkfig) |
+| Chatshelf | Puts ChatGPT, Claude and Gemini chats in folders, with search and Markdown export. | [Edge](https://microsoftedge.microsoft.com/addons/detail/ckgcmaglejifhgpbemkfkknmgpnomjio) |
 
-## What I do
+Streamgrab, Shelfverdict and Storeprobe are in store review.
 
-Learning self-hosted infrastructure by running my own stack. Docker, Caddy as a reverse
-proxy, TLS, Postgres, backup and restore. Most of it picked up by breaking things on a
-home server and fixing them.
+## Developer tools
 
-Building small developer tools too — two of them public:
+| Tool | What it does |
+|---|---|
+| [handoff](https://github.com/exochard/handoff) | Carries a project's state (goal, decisions, what not to retry) across coding-agent sessions, so a fresh one doesn't start from scratch. |
+| [delegate](https://github.com/exochard/delegate) | Sends a coding task to a worker in its own git worktree, then reports back a diff to review. |
 
-<table>
-<tr>
-<td><a href="https://github.com/exochard/handoff"><b>handoff</b></a></td>
-<td>Carries a project's state (goal, decisions, what not to retry) across coding-agent sessions, so a fresh one doesn't re-derive it from scratch.</td>
-</tr>
-<tr>
-<td><a href="https://github.com/exochard/delegate"><b>delegate</b></a></td>
-<td>Sends a coding task to a worker in its own git worktree, then reports back a diff to review.</td>
-</tr>
-</table>
+## Links
 
-## Stack
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=docker,postgres,linux,bash,git,githubactions&theme=dark" />
-</div>
-
-## Activity
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=exochard&theme=dark&hide_border=true&background=&ring=161&fire=5980A6&currStreakLabel=F4F1EA" />
-</div>
-
-## Elsewhere
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-0D1B2A?style=for-the-badge&logo=vercel&logoColor=white)](https://giuseppe-castelluccio-site.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1B2A?style=for-the-badge&logo=linkedin&logoColor=0D4A27)](https://www.linkedin.com/in/giuseppe-castelluccio-34008b39b)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D4A27,100:0D1B2A&height=100&section=footer" width="100%">
+[Portfolio](https://giuseppe-castelluccio-site.vercel.app) · [LinkedIn](https://www.linkedin.com/in/giuseppe-castelluccio-34008b39b)
