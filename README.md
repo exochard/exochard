@@ -23,7 +23,7 @@ Streamgrab, Shelfverdict and Storeprobe are in store review.
 
 | Tool | What it does |
 |---|---|
-| [handoff](https://github.com/exochard/handoff) | Carries a project's state (goal, decisions, what not to retry) across coding-agent sessions, so a fresh one doesn't start from scratch. |
+| handoff (private for now) | Carries a project's state (goal, decisions, what not to retry) across coding-agent sessions, so a fresh one doesn't start from scratch. |
 | [delegate](https://github.com/exochard/delegate) | Sends a coding task to a worker in its own git worktree, then reports back a diff to review. |
 
 ## Links
